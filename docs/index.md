@@ -3,9 +3,11 @@
 ```js
 export default {
   name: 'MyComponent',
+  // update content
   // ...
 }
 ```
+
 
 <HelloWorld msg="hello world" />
 <HelloRemote />
